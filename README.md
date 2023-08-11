@@ -43,7 +43,7 @@ results: Text files or summaries containing key findings, insights, and statisti
 ##### Usage
 To replicate or extend this analysis, follow these steps:
 
-Clone this repository: git clone https://github.com/yourusername/data-analysis-project.git
+Clone this repository
 Navigate to the notebooks directory and open the relevant Jupyter notebook.
 Follow the instructions within the notebook to load the datasets, perform analysis, and generate visualizations.
 Refer to the generated figures and results for insights obtained from the analysis.
