@@ -1,4 +1,5 @@
 # Data Analysis
+<img width="400" height="300" src="analysis.png"/>
 This repository contains a comprehensive data analysis of various datasets including car prices, diabetes, insurance, cancer and mental health. The analysis primarily focuses on performing linear regression, calculating correlation coefficients, and conducting statistical tests to gain insights into the relationships between attributes.
 
 ### Datasets
